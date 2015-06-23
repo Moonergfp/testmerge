@@ -1,4 +1,6 @@
 conflict
+<<<<<<< HEAD
 branchA modify
+=======
 branchB modify
-
+>>>>>>> branchB
